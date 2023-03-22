@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tesxtutils/static/css/main.3b5c3070.css",
+    "main.js": "/Tesxtutils/static/js/main.f60576a4.js",
+    "static/js/787.719ec76d.chunk.js": "/Tesxtutils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Tesxtutils/index.html",
+    "main.3b5c3070.css.map": "/Tesxtutils/static/css/main.3b5c3070.css.map",
+    "main.f60576a4.js.map": "/Tesxtutils/static/js/main.f60576a4.js.map",
+    "787.719ec76d.chunk.js.map": "/Tesxtutils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b5c3070.css",
+    "static/js/main.f60576a4.js"
+  ]
+}
